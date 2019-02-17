@@ -1,0 +1,10 @@
+﻿  Uic'ing qlineedittest.ui...
+  Rcc'ing qlineedittest.qrc...
+  Moc'ing qlineedittest.h...
+   RCC: Warning: No resources in 'D:\Qt_lesson\lesson_code\src\QLineEdittest\qlineedittest.qrc'.
+  main.cpp
+  qlineedittest.cpp
+  qrc_qlineedittest.cpp
+  moc_qlineedittest.cpp
+  QLineEdittest.vcxproj -> D:\Qt_lesson\lesson_code\src\QLineEdittest\Win32\Debug\QLineEdittest.exe
+  QLineEdittest.vcxproj -> D:\Qt_lesson\lesson_code\src\QLineEdittest\Win32\Debug\QLineEdittest.pdb (Full PDB)

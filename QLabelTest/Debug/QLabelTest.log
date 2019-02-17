@@ -1,0 +1,10 @@
+﻿  Uic'ing qlabeltest.ui...
+  Rcc'ing qlabeltest.qrc...
+  Moc'ing qlabeltest.h...
+   RCC: Warning: No resources in 'D:\Qt_lesson\lesson_code\src\QLabelTest\qlabeltest.qrc'.
+  main.cpp
+  qlabeltest.cpp
+  qrc_qlabeltest.cpp
+  moc_qlabeltest.cpp
+  QLabelTest.vcxproj -> D:\Qt_lesson\lesson_code\src\QLabelTest\Win32\Debug\QLabelTest.exe
+  QLabelTest.vcxproj -> D:\Qt_lesson\lesson_code\src\QLabelTest\Win32\Debug\QLabelTest.pdb (Full PDB)
